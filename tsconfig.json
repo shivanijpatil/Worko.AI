@@ -17,7 +17,9 @@
   "compilerOptions": {
     "outDir": "./dist",
     "rootDir": "./src",
-    "esModuleInterop": true
+    "target": "ES6",         
+    "module": "commonjs",    
+    "esModuleInterop": true  
   },
   "include": [
     "src/**/*.ts"
@@ -26,4 +28,5 @@
     "node_modules"
   ]
 }
+
 
