@@ -7,7 +7,7 @@
 .env.*.local
 
 # build output
-/dist
+dist/
 
 # logs
 npm-debug.log*
