@@ -27,9 +27,9 @@
     "@types/multer": "^1.4.12",
     "@types/node": "^18.19.74",
     "ts-node-dev": "^2.0.0",
-    "typescript": "^5.0.3"
+    "typescript": "^5.7.3"
   },
   "engines": {
-  "node": "20.x"
-}
+    "node": "20.x"
+  }
 }
